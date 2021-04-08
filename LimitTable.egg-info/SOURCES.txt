@@ -1,0 +1,9 @@
+setup.py
+LimitTable.egg-info/PKG-INFO
+LimitTable.egg-info/SOURCES.txt
+LimitTable.egg-info/dependency_links.txt
+LimitTable.egg-info/not-zip-safe
+LimitTable.egg-info/top_level.txt
+calculus_limits/__init__.py
+calculus_limits/limits.py
+calculus_limits/testscript.py

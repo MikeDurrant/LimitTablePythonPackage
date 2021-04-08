@@ -4,10 +4,10 @@ LimitTable is a Python library for dealing with finding limits in differential c
 
 ## Installation
 
-Use the package manager [pip](link to be added) to install LimitTable.
+Use the package manager [pip](https://pypi.org/project/LimitTable/0.1/#files) to install LimitTable.
 
 ```bash
-pip install 'to be add later'
+pip install LimitTable
 ```
 
 ## Usage
