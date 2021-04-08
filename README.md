@@ -13,7 +13,7 @@ pip install LimitTable
 ## Usage
 
 ```python
-import LimitTable
+from calculus_limits import LimitTable
 
 #First define the function you wish to apply to the Limit Table
 

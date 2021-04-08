@@ -1,1 +1,1 @@
-from .limits import LimitTable
+from calculus_limits import LimitTable
